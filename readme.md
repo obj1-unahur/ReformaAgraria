@@ -14,9 +14,9 @@ En un lote sólo se puede producir un cultivo al año, pero en un año próximo 
 * El rendimiento de las legumbres, como lenjetas y arvejas, se calcula como su indicador de calidad por 1000 más un incentivo propio de cada legumbre.  
 Por otra parte, se sabe cuál es el costo de vida mensual actual en el país por persona y las cantidad de personas de la familia del productor.
 
-**Averiguar qué porcentaje de los lotes genera un ingreso suficiente** con el que el productor llega a cubrir el costo de vida de la familia durante un año.
+**Ingreso suficiente** Averiguar qué porcentaje de los lotes genera un ingreso con el que el productor llega a cubrir el costo de vida de la familia durante un año.
 
-Por ejemplo, un lote de 10 hectáreas de algodón trabajado por un productor cuya tiene una familia de 4 integrantes, si el costo de vida en el país es actualmente de $1000, entonces no genera un ingreso suficiente, ya que 40000 (4000 * 10) es menos qué 48000 (1000 * 4 * 12). En cambio, el mismo lote generaría un ingreso suficiente si estuviera sembrado con soja de 8000$ de rendimiento, pese a las retenciones (60000 > 48000).
+_Por ejemplo, un lote de 10 hectáreas de algodón trabajado por un productor cuya tiene una familia de 4 integrantes, si el costo de vida en el país es actualmente de $1000, entonces no genera un ingreso suficiente, ya que 40000 `(4000 * 10)` es menos qué 48000 `(1000 * 4 * 12)`. En cambio, el mismo lote generaría un ingreso suficiente si estuviera sembrado con soja de 8000$ de rendimiento, pese a las retenciones `(60000 > 48000)`._
 
 ### Nuevos cultivos
 
@@ -28,12 +28,10 @@ Aparecen nuevos experiencias de cultivos, con rendimientos diferentes.
 
 ### Acontecimientos
 
-A lo largo de la historia del país se suceden difereAntes acontecimientos que alteran la organización productiva del país. 
+A lo largo de la historia del país se suceden diferentes acontecimientos que alteran la organización productiva del país. 
 Algunas de ellas son:
 - **Reforma agraria**, El mayor de los lotes disminuye su superficie a la mitad y la otra mitad se distribuye en partes iguales entre los restantes lotes, de manera que incrementan su cantidad de hectáreas.
-
 - **Cultivos fomentados** Hay una decisión oficial de fomentar un nuevo cultivo, que afecta sólo a los lotes grandes (más de 1000 hectáreas). En caso de tener un cultivo combinado, se agrega dicho cultivo a los existentes, distribuyendose tambien en partes iguales, pero en los demás casos especificados el cultivo fomentado directamente reemplaza al cultivo anterior. (Definir de una manera diferente a las anteriores lo que sucede cuando se trata de un lote sembrado por el cultivo inventado) 
-
 
 **Se pide resolver los requerimientos planteados y hacer algunos tests significativos.**
 
