@@ -1,50 +1,39 @@
 # Reforma agraria
 
-**Recuperando una antigua tradición latinoamericana, en un lejano país al que hoy, con el perdón de nuestros ancestros y próceres de la independencia, podríamos denominar "graboisland" se ha decidido redistribuir el uso de la tierra y reglamentar la producción, de manera de generar lotes del tamaño apropiado para garantizar el sustento de una familia y acorde al tipo de cultivo que se desarrolle. 
-Ya no tiene sentido diferenciar campesinos y campesinos de terratenientes, cerramos la grieta y son simplemente productores agropecuarios que trabajan en su tierra.** 
+**Recuperando una antigua tradición latinoamericana de nuestros ancestros y próceres de la independencia, existe un país en el que se ha decidido reorganizar el uso de la tierra y reglamentar la producción, de manera de favorecer el sustento de las familias que trabajan la tierra. 
 
 ![](reforma.png)
 
 ### Producción suficiente
 
-Cada lote genera ingresos que se calculan como la cantidad de hectáreas que trabaja por el rendimiento anual que obtiene de cada una de ellas. Por ejemplo, un lote de 10 hectáreas con un rendimiento de 500 grabopesos cada una, da un ingreso anual de 5000. 
-Además, se sabe cuál es el costo de vida mensual en el país para una familia tipo.
+El terreno cultivable del país está organizado en lotes en los que los productores agropecuarios trabajan y de esa manera se ganan su sustento.
+Cada lote genera ingresos que se calculan como la cantidad de hectáreas por el rendimiento anual que obtiene de cada una de ellas. 
+En un lote sólo se puede producir un cultivo al año, pero en un año próximo puede sembrarse otra cosa. El rendimiento de una hectárea depende de qué cultivo se trate, de la siguiente manera:
+* Los productos con retenciones, como por ejemplo el maíz, la soja y el trigo, tienen un rendimiento propio cada uno, y en todos los casos se le aplican retenciones de un 25% que disminuyen su valor.
+* El algodón tiene un rendimiento fijo de 4000$.
+* El rendimiento de las legumbres, como lenjetas y arvejas, se calcula como su indicador de calidad por 1000 más un incentivo propio de cada legumbre.  
+Por otra parte, se sabe cuál es el costo de vida mensual actual en el país por persona y las cantidad de personas de la familia del productor.
 
-**Averiguar qué porcentaje de lotes genera un ingreso suficiente** con el que llega a cubrir el costo de vida de la familia durante un año.
+**Averiguar qué porcentaje de los lotes genera un ingreso suficiente** con el que el productor llega a cubrir el costo de vida de la familia durante un año.
 
-### Regulación de cultivos
+Por ejemplo, un lote de 10 hectáreas de algodón trabajado por un productor cuya tiene una familia de 4 integrantes, si el costo de vida en el país es actualmente de $1000, entonces no genera un ingreso suficiente, ya que 40000 (4000 * 10) es menos qué 48000 (1000 * 4 * 12). En cambio, el mismo lote generaría un ingreso suficiente si estuviera sembrado con soja de 8000$ de rendimiento, pese a las retenciones (60000 > 48000).
 
-Existen variados cultivos que se pueden producir en los lotes y en principio cada uno se dedica a un cultivo en particular en toda su superficie en una campaña, aunque al año siguiente se puede cambiar. 
-El gobierno fija un máximo de cantidad de hectáreas que se pueden cultivar en cada unidad productiva (actualmente 50), y establece ciertas regulaciones según qué cultivo se trata, por ejemplo para evitar un desgaste excesivo del suelo. De esta manera, para cada cultivo se establece un índice de intensidad en el uso del suelo, que normalmente es 1, pero en algunos casos puede ser mayor. Este valor limita la superficie del lote que realmente puede utilizarse productivamente.
-Por ejemplo, el maíz y el sorgo tienen índice 1, pero en cambio la soja tiene índice 2.  
+### Nuevos cultivos
 
-**Averiguar si un lote se está excediendo en el uso del suelo**, lo cual ocurre cuando la cantidad de hectáreas productivas que posee supera las permitidas, teniendo en cuenta que la superficie permitida es la que indica la ley, pero afectadas de manera inversamente proporcional por el índice de intensidad del cultivo. Por ejemplo, de maíz puede tener hasta 50 hectáreas, pero de soja sólo puede llegar a la mitad, es decir 25 ha. (se rumorea que se va a establecer en 50 el índice de intensidad del cannabis, para que el máximo permitido sea de una hectárea) 
+Aparecen nuevos experiencias de cultivos, con rendimientos diferentes.
+* Otros productos con retenciones son el limón, la naranja y el pomelo, pero para ellos hay una garantía especial por la que su valor, luego de haberle aplicado el 25% de retenciones, nunca puede ser de menos de 3000$
+* En algunos lotes, el cultivo es combinado, es decir que se cultivan varios productos mezclados en partes iguales, por lo que su rendimiento es el promedio de los rendimientos de los cultivos. Otros cultivos son en realidad una combinación de cultivos que se producen en el mismo lote. Por ejemplo, puede haber productores con un cultivo combinado de limón, soja y algodón. 
+* Inventar un nuevo tipo de cultivo, con su correspondiente forma de calcular su rendimiento. 
 
-### Más cultivos
 
-Algunos cultivos son genéricos: los valores que establecen no se fijan individualmente para ellos, sino por el ente regulador del sector. Por ejemplo, los cultivos de limón, naranja y pomelo, están regulados por la cámara de cítricos, que establece las mismas condiciones para todos.
+### Acontecimientos
 
-Otros cultivos son en realidad una combinación de cultivos que se producen en el mismo lote. Por ejemplo, hay productores frutícolas de manzanas y peras, otros que combinan yerba mate con distintas variedades de té. En este caso, los valores de la regulación se establecen como el promedio de los valores de regulación de cada producto.
+A lo largo de la historia del país se suceden difereAntes acontecimientos que alteran la organización productiva del país. 
+Algunas de ellas son:
+- **Reforma agraria**, El mayor de los lotes disminuye su superficie a la mitad y la otra mitad se distribuye en partes iguales entre los restantes lotes, de manera que incrementan su cantidad de hectáreas.
 
-**Hacer un aumento de productividad generalizado**, que implica incrementar en un porcentaje dado los rendimientos de todos los lotes que no tienen producción suficiente y que no se exceden en el uso del suelo. 
+- **Cultivos fomentados** Hay una decisión oficial de fomentar un nuevo cultivo, que afecta sólo a los lotes grandes (más de 1000 hectáreas). En caso de tener un cultivo combinado, se agrega dicho cultivo a los existentes, distribuyendose tambien en partes iguales, pero en los demás casos especificados el cultivo fomentado directamente reemplaza al cultivo anterior. (Definir de una manera diferente a las anteriores lo que sucede cuando se trata de un lote sembrado por el cultivo inventado) 
 
-### Iniciativas
-
-Los sectores que conforman la sociedad graboislandesa sigue discutiendo y ejerciendo presión para lograr sus intereses, por lo que hay diferentes iniciativas tendientes a modificar la situación actual. Concretamente, cada iniciativa incluye una serie de propuestas de cambio del marco regulatorio. Si la iniciativa tiene éxito, las propuestas se concretan. Las propuestas conocidas son: 
-- Duplicar la productividad
-- Reducir o aumentar las hectáreas de cada lote en un porcentaje, pero manteniendo el ingreso total.
-- Que los productores de cierto cultivo lo cambien por otro. 
-
-Cada iniciativa se lleva adelante con una diferente modalidad y esa puede ser la clave del éxito:
-- Un tractorazo es exitoso si participan al menos 10000 personas y si en el país hay menos policías activos que participantes.
-- Un proyecto de ley es exitoso con que se sumen 100 personas, siempre y cuando la avale un partido político mayoritario.
-- Una iniciativa virtual es exitosa si se suman al menos 1000 personas, y la cantidad de likes supera ampliamente la de trolls (5 a 1 como mínimo)
-
-**Saber si una iniciativa va a ser exitosa**
-
-**Hacer que una iniciativa tenga los efectos correspondientes** en caso de ser exitosa.
-
-**Inventar una nueva iniciativa**
 
 **Se pide resolver los requerimientos planteados y hacer algunos tests significativos.**
 
