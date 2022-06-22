@@ -1,0 +1,13 @@
+import reforma.*
+describe "test cultivos" {
+
+const granLote = "completar"
+const miniLote = "completar"
+
+
+test "productividad "{
+	pais.agregarLote(granLote)
+	pais.agregarLote(miniLote)
+	assert.equals(1/2, pais.porcentajeLotesProduccionSuficiente())
+	}
+}
